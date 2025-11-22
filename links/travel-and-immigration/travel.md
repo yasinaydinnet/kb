@@ -14,14 +14,15 @@ Search city OR country:
 
 - <https://www.wikivoyage.org>
 - <https://9gag.com/>
-- <https://eksisozluk.com/>
+- <https://www.wikipedia.org/>
 - <https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles>
+- <https://en.wikipedia.org/wiki/Lists_of_World_Heritage_Sites>
+- <https://eksisozluk.com/>
 - <https://matadornetwork.com/destinations/europe/>
 - <https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map>
 - <https://www.inyourpocket.com>
 - <https://www.lonelyplanet.com/>
 - <https://www.timeanddate.com/> (Sunset Sunrise)
-- <https://www.wikipedia.org/>
 
 Also search city OR country in:
 
