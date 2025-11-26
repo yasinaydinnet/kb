@@ -5,7 +5,7 @@
 | **Formulae** | Original CLI apps                                                                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Cask**     | Extension to Homebrew to install GUI applications like Google Chrome                                                                                               |
-| **Tap**      | Source of formulae. The default is `homebrew/core` but you can add more of them.                                                                                   |
+| **Tap**      | Third party repositories. Source of formulae. The default is `homebrew/core` but you can add more of them.                                                                                   |
 | **Cellar**   | Where Homebrew installs things. Default path is `/usr/local/Cellar` (`/opt/homebrew/Cellar` on Apple Silicon). It then add symlinks from standard locations to it. |
 
 ## Update
@@ -85,3 +85,31 @@ brew cleanup --prune=all
 ## Uninstall homebrew
 
 Source: <https://github.com/homebrew/install#uninstall-homebrew>
+
+## Tap commands
+
+List (except default tap):
+
+```sh
+brew tap
+```
+
+Add new:
+
+```sh
+brew tap $REPONAME/tap
+```
+
+Repair:
+
+```sh
+brew tap --repair
+```
+
+Remove:
+
+```sh
+brew untap $REPONAME/tap
+```
+
+Source: <https://docs.brew.sh/Taps>
