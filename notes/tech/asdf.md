@@ -47,3 +47,17 @@ Install based on `.tool-versions`:
 ```sh
 asdf install
 ```
+
+## Shimming
+
+Reshim all:
+
+```sh
+asdf reshim
+```
+
+Reshim certain plugin
+
+```sh
+asdf reshim $PLUGINNAME
+```
