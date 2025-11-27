@@ -5,7 +5,7 @@
   - [Universal Paperclips](./gaming/universal-paperclips.md)
 - Tech
   - [Arch Linux](./tech/arch-linux.md)
-  - [ASDF](./tech/asdf.md)
+  - [asdf](./tech/asdf.md)
   - [GitHub Pages to CloudFlare](./tech/github-pages-to-cloudflare.md)
   - [Homebrew](./tech/homebrew.md)
   - [iPhone](./tech/iphone.md)
