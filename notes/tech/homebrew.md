@@ -1,5 +1,7 @@
 # Homebrew
 
+Official website: <https://brew.sh>
+
 ## Terminology
 
 | **Formulae** | Original CLI apps                                                                                                                                                  |
@@ -7,6 +9,14 @@
 | **Cask**     | Extension to Homebrew to install GUI applications like Google Chrome                                                                                               |
 | **Tap**      | Third party repositories. Source of formulae. The default is `homebrew/core` but you can add more of them.                                                                                   |
 | **Cellar**   | Where Homebrew installs things. Default path is `/usr/local/Cellar` (`/opt/homebrew/Cellar` on Apple Silicon). It then add symlinks from standard locations to it. |
+
+## Disable analytics
+
+```sh
+brew analytics off
+```
+
+Source: <https://docs.brew.sh/Analytics>
 
 ## Update
 
