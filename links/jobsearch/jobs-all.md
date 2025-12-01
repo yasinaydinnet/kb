@@ -199,9 +199,13 @@ Big Tech:
 - Snyk
 - Spotify
 - Synk
-- Turing - <https://turing.com>
 - VMware
 - Wikipedia
+
+Other tech:
+
+- Kagi - <https://kagi.peopleforce.io/careers>
+- Turing - <https://turing.com>
 
 Government and Defense:
 
