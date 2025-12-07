@@ -22,6 +22,7 @@ Search city OR country:
 - <https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map>
 - <https://www.inyourpocket.com>
 - <https://www.lonelyplanet.com/>
+- <https://makemydrivefun.com>
 - <https://www.timeanddate.com/> (Sunset Sunrise)
 
 Also search city OR country in:
