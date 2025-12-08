@@ -36,10 +36,11 @@ Also see: [Random websites](./random.md)
 | <https://pixel.ee>                                         | Portfoilio         |
 
 
-## Special design
+## Desktop-like
 
 - <https://911realtime.org>
 - <https://corp.band>
 - <https://int10h.org/oldschool-pc-fonts>
 - <https://neal.fun/internet-artifacts/justins-links>
 - <https://dustinbrett.com>
+- <https://www.nicchan.me>
