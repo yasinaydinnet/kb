@@ -186,7 +186,7 @@ Big Tech:
 - Dropbox - <https://jobs.dropbox.com/all-jobs>
 - Facebook / Meta / Instagram - <https://www.metacareers.com>
 - GitHub - <https://www.github.careers/careers-home>
-- Gitlab - <https://about.gitlab.com/jobs/all-jobs>
+- Gitlab - <https://about.gitlab.com/jobs/all-jobs> ([Security](https://about.gitlab.com/jobs/all-jobs/#security))
 - Google
 - IBM - <https://www.ibm.com/careers#jobs>
 - Linkedin
