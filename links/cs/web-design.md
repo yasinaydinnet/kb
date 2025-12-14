@@ -21,6 +21,7 @@ Also see: [Random websites](./random.md)
 - <https://djharper.dev/about>
 - <https://ivan.sanchezortega.es/whoami>
 - <https://swtch.com/~rsc>
+- <https://hey.paris/books-and-events/events/>
 
 
 ## Content-specific
