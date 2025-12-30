@@ -13,6 +13,7 @@ Also see: [Random websites](./random.md)
 - <https://lucumr.pocoo.org>
 - <https://paulrobertlloyd.com>
 - <https://www.markround.com>
+- <https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone>
 
 
 ## About pages
