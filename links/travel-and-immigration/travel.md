@@ -10,6 +10,12 @@
 
 ## Country Research
 
+Neighborhood & safety maps:
+
+- <https://hoodmaps.com>
+- <https://safemap.io>
+- <https://www.neighborhoodscout.com>
+
 Search city OR country:
 
 - <https://www.wikivoyage.org>
