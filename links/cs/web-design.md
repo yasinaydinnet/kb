@@ -1,6 +1,6 @@
 # Website designs I like
 
-Also see: [Random websites](./random.md)
+Also see: [Random websites](../interests/random.md)
 
 
 ## Landing page / header / general design
