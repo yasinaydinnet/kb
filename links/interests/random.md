@@ -6,6 +6,7 @@
 - <https://news.ycombinator.com/item?id=32571343>
 - <https://news.ycombinator.com/item?id=32777109>
 - <https://news.ycombinator.com/item?id=32804832> Ask HN: How do you find the weird parts of the web?
+- <https://news.ycombinator.com/item?id=46618714> Ask HN: Share your personal website
 - <https://search.marginalia.nu/explore/random>
 - <https://theuselessweb.com>
 - <https://wiby.me>
