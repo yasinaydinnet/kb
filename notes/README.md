@@ -11,4 +11,5 @@
   - [iPhone](./tech/iphone.md)
   - [Macports](./tech/macports.md)
   - [Password Managers](./tech/password-managers.md)
+  - [Windows](./tech/windows.md)
 - [Quotes](./quotes.md)
