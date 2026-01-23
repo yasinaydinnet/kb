@@ -16,6 +16,16 @@ Neighborhood & safety maps:
 - <https://safemap.io>
 - <https://www.neighborhoodscout.com>
 
+YouTube:
+
+- <https://www.youtube.com/@GeographyNow>
+- Tom Scott Map: <https://www.frog23.net/TomScottMap>
+- Search:
+  - 1 day in $CITY
+  - Hidden secrets of $CITY
+  - Local tips for $CITY
+  - Walk in $STATION, $AIRPORT, $CITY
+
 Search city OR country:
 
 - <https://www.wikivoyage.org>
@@ -40,3 +50,67 @@ Also search city OR country in:
 - <https://www.google.com/search?hl=en&udm=14&q=travel+advice+CITYNAME>
 - <https://www.google.com/search?hl=en&udm=14&q=safety+map+CITYNAME>
 - <https://9gag.com/search?query=painting%20CITYNAME>
+
+
+## Mobile phone apps
+
+Flight:
+
+- Mastercard experiences
+- Flight companies
+- Flightradar24
+
+Maps (also download offline)
+
+- Google Maps
+- Apple Maps
+- Organic Maps
+
+Stay:
+
+- Booking.com
+- Airbnb
+
+Transportation:
+
+- Trains (What was japan shinkansen)
+- Trafi
+- Taxi: Bolt, Uber, Lyft, Freenow, GoTaxi (JP), Bitaksi (TR)
+
+Media:
+
+- Music: Apple Music, Spotify
+- Video: Put.io, Netflix
+- Book: Kindle, iBooks
+
+Social:
+
+- FB Messenger
+- Telegram
+- Kakao Talk (Korea), Line messenger (Asia)
+- Dating apps?
+
+Other offline:
+
+- Dropbox
+- Google Translate
+- Google docs/excel/drive
+- Apple Translate
+
+Other:
+
+- Atlas Obscura
+- Mullvad VPN
+- Ubigi, Airalo, E-sim etc..
+- Bank: Wise, Revolut
+- Opera
+
+### Country Specific
+
+- Italy:
+    - my pompeii <https://apps.apple.com/us/app/mypompeii/id1519515140> - official site app
+    - artecard - <https://apps.apple.com/us/app/artecard/id1469215178> - campania tourist card
+- Turkey:
+    - Bitaksi
+    - Order: Yemeksepeti, Getir
+    - Scooter: Marti, baska?
