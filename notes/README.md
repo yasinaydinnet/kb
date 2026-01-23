@@ -11,5 +11,6 @@
   - [iPhone](./tech/iphone.md)
   - [Macports](./tech/macports.md)
   - [Password Managers](./tech/password-managers.md)
+  - [Visual Studio Code](./tech/vscode.md)
   - [Windows](./tech/windows.md)
 - [Quotes](./quotes.md)
