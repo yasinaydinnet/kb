@@ -89,6 +89,7 @@
 
 Source: <https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known>
 
+```
 - About 99% of the time, the right time is right now.
 - No one is as impressed with your possessions as you are.
 - Dont keep making the same mistakes; try to make new mistakes.
@@ -108,6 +109,37 @@ Source: <https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known>
 - If you repeated what you did today 365 more times will you be where you want to be next year?
 - Focus on directions rather than destinations. Who knows their destiny? But maintain the right direction and you’ll arrive at where you want to go.
 - Rather than steering your life to avoid surprises, aim directly for them.
+```
+
+## I'm 34. Here's 34 things I wish I knew at 21
+
+Source: <https://elliot.my/im-34-heres-34-things-i-wish-i-knew-at-21/>
+
+```
+If you can't refuse something, it owns you.
+
+Fear of being cringe will stop you living fully. Get over it.
+
+Don't take criticism from someone you wouldn't take advice from.
+
+Adults make a lot more sense when you realise they're just children in big bodies.
+
+Bears don't need motivation to hunt salmon for 12 hours straight. But put them in a circus and they need constant prodding to wave at an audience once. Motivation is a human problem – because we don't fit our 21st century environment. You must not be a circus bear.
+
+Humans struggle to mentally combine their "now" self and their "future" self. So treat your future self as someone you love and want to see thrive. Today's laziness is tomorrow's burden. Do them a favour.
+
+The obstacle is the way. Get used to it. Learn to love it.
+
+Start contributing as much as you can possibly afford to your pension – even if you're 16. At the very least contribute what your employer matches. More if you can – 10% is good. This is likely the best financial decision you'll make.
+
+Humans are almost as impulsive as dogs. Don't keep a cupboard full of snacks.
+
+Listen to your favourite music regularly. Your soul needs it.
+
+The time is going to pass anyway, so why not live well and be happy?
+
+There’s a reason most religions and cultures built fasting and renunciation into their traditions: the power isn’t in avoiding bad things, but in the exercise of restraint itself. Willpower is a muscle, and abstinence is the gym.
+```
 
 ## Jorge Luis Borges - If I Could
 
