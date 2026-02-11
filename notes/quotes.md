@@ -32,6 +32,7 @@
 
 > To get rich, you have to be making money while you're asleep. (David Bailey)
 
+> The most important thing to do if you find yourself in a hole is to stop digging. (Warren Buffett)
 
 ## Purpose of Life and Doing Something in Life
 
