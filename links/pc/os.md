@@ -1,8 +1,9 @@
 # Operating Systems
 
-## Linux
+## General
 
-- <https://distrosea.com> - Try a Linux distro in browser
+- <https://distrosea.com> - Try a Linux distro on browser
+- <https://copy.sh/v86/> - Try many operating systems on your browser, including Windows
 
 ## Windows
 
