@@ -35,6 +35,7 @@ Also see: [Random websites](../interests/random.md)
 | <https://michael.stapelberg.ch/talks>                      | Talks              |
 | <https://michael.stapelberg.ch/series/>                    | Movies/Series      |
 | <https://davidcel.is/check-ins/1968368435393815464-kasama> | Travel/photography |
+| <https://kenschutte.com/lima-to-rio-by-bus/> | Travel/photography |
 | <https://mazzo.li/posts/fast-pipes.html>                   | Articles           |
 | <https://pixel.ee>                                         | Portfoilio         |
 
