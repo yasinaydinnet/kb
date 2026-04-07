@@ -1,13 +1,22 @@
 # Random Website Discovery
 
+- <https://1mb.club>
+- <https://250kb.club>
+- <https://512kb.club>
+- <https://blogroll.org>
 - <https://css-naked-day.github.io>
 - <https://gossipsweb.net>
+- <https://indieblog.page>
+- <https://kagi.com/smallweb>
+- <https://minifeed.net/welcome>
 - <https://neocities.org/browse>
 - <https://news.ycombinator.com/item?id=32571343>
 - <https://news.ycombinator.com/item?id=32777109>
 - <https://news.ycombinator.com/item?id=32804832> Ask HN: How do you find the weird parts of the web?
 - <https://news.ycombinator.com/item?id=46618714> Ask HN: Share your personal website
+- <https://ooh.directory>
+- <https://powrss.com>
 - <https://search.marginalia.nu/explore/random>
+- <https://text.blogosphere.app>
 - <https://theuselessweb.com>
 - <https://wiby.me>
-- <https://text.blogosphere.app>
