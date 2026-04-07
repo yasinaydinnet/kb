@@ -10,3 +10,4 @@
 - <https://search.marginalia.nu/explore/random>
 - <https://theuselessweb.com>
 - <https://wiby.me>
+- <https://text.blogosphere.app>
