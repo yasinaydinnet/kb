@@ -14,7 +14,7 @@ Below are my VSCode settings
   "extensions.ignoreRecommendations": true,
   "extensions.autoUpdate": true,
 
-  "editor.detectIndentation": false,
+  "editor.detectIndentation": true,
   "editor.insertSpaces": true,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
@@ -27,7 +27,7 @@ Below are my VSCode settings
 
   "update.showReleaseNotes": false,
 
-  "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Visual Studio Light",
+  "window.autoDetectColorScheme": true,
+  "workbench.startupEditor": "none"
 }
 ```
