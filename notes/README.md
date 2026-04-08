@@ -12,4 +12,7 @@
   - [Macports](./tech/macports.md)
   - [Password Managers](./tech/password-managers.md)
   - [Visual Studio Code](./tech/vscode.md)
+- Travel
+  - [Actions/Planning/Todo](./travel/todo.md)
+  - [Bag Prep/Contents](./travel/bag.md)
 - [Quotes](./quotes.md)
