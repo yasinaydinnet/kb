@@ -20,6 +20,7 @@ Debloat:
 - <https://github.com/Raphire/Win11Debloat>
 - <https://www.getblackbird.net>
 - <https://privacy.sexy>
+- <https://www.tiny11.ch>
 
 My standard set of apps:
 
