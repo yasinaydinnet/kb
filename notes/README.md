@@ -14,6 +14,7 @@
   - [Visual Studio Code](./tech/vscode.md)
 - Travel
   - [Actions/Planning/Todo](./travel/todo.md)
+  - [Airline Alliances](./travel/airline-alliance.md)
   - [Bag Prep/Contents](./travel/bag.md)
 - [Quotes](./quotes.md)
 - [Job Interview](./job-interview.md)
