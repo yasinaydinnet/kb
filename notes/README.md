@@ -6,6 +6,7 @@
 - Tech
   - [Arch Linux](./tech/arch-linux.md)
   - [asdf](./tech/asdf.md)
+  - [data](./tech/data.md)
   - [GitHub Pages to CloudFlare](./tech/github-pages-to-cloudflare.md)
   - [Homebrew](./tech/homebrew.md)
   - [iPhone](./tech/iphone.md)
