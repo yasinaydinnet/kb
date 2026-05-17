@@ -22,3 +22,7 @@
 - <https://standardebooks.org/ebooks> - Free and liberated ebooks
 - <https://openlibrary.org> - by Internet Archive
 - <https://greenteapress.com> - Free books of Think X series
+
+## Linguistics
+
+- <https://ukdataexplorer.com/european-translator/?word=beer>
