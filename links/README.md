@@ -1,4 +1,4 @@
-# Links
+# Links that I use or Recommend
 
 This section includes links to various websites that I find **informing, educating or entertaining** ([just like BBC's values](https://www.youtube.com/watch?v=tZizNksnnRA&t=759s)). 
 
@@ -16,6 +16,10 @@ This section includes links to various websites that I find **informing, educati
     - [Concepts](./cybersecurity/concepts.md)
     - [Tools](./cybersecurity/tools.md)
     - [Yubikey](./cybersecurity/yubikey.md)
+- Estonian Language
+    - [Learning](./estonian/learn.md)
+    - [Practicing](./estonian/practice.md)
+    - [Testing](./estonian/test.md)
 - Interests
     - [DNA Tests and Analysis](./interests/dna.md)
     - [Learning and Discovery](./interests/learning-and-discovery.md)
