@@ -16,6 +16,7 @@
 
 - <https://music.ishkur.com> - Electronic
 - <https://psytranceguide.com> - Psytrance
+- <https://mapofmetal.com> - Metal
 - <https://everynoise.com>
 - <https://suno.com/explore> - AI generated
 - <https://rawl.rocks> - See chords and harmony as flags ([HN](https://news.ycombinator.com/item?id=45826472))
