@@ -9,6 +9,7 @@ This section includes links to various websites that I find **informing, educati
     - [Spain](./country/spain.md)
     - [UK](./country/uk.md)
 - Computer Science
+    - [Self Hosting](./cs/self-hosting.md)
     - [Facebook Privacy Settings](./cs/facebook.md)
     - [Offline Internet](./cs/offline-internet.md)
     - [Website Designs I like](./cs/web-design.md)
