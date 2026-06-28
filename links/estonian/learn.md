@@ -4,6 +4,10 @@
 
 - <https://forum.unilang.org/viewforum.php?f=53&sid=dbf0a62ad94de5cef95c887005482eb9>
 
+## General services including multiple resources:
+
+- https://iseteenindus.integratsioon.ee
+
 ## Books
 
 - <https://www.scribd.com/document/528906836/Juhan-Tuldava-Estonian-Textbook> (or <https://archive.org/details/estoniantextbook0000tuld/mode/2up>)
