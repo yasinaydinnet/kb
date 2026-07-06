@@ -2,7 +2,7 @@
 
 - Knowledge: MediaWiki, https://whoami.wiki
 
-- Photo: Immich (like Google Photos), DigiKam (Photos app)
+- Photo: Immich (like Google Photos), DigiKam (Photos app), [Ente](https://github.com/ente/ente)
 
 - Pass: Keepassxc, Vaultvarden, pwsafe.org. lockstep 
 
