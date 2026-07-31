@@ -8,6 +8,7 @@
   - [asdf](./tech/asdf.md)
   - [data](./tech/data.md)
   - [DNS records for email](./tech/email-dns.md)
+  - [Firefox config](./tech/firefox.md)
   - [GitHub Pages to CloudFlare](./tech/github-pages-to-cloudflare.md)
   - [Homebrew](./tech/homebrew.md)
   - [iPhone](./tech/iphone.md)
