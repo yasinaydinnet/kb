@@ -1,4 +1,10 @@
-# Random Website Discovery
+# Random links
+
+## Other links
+
+- <https://ramen.haus/index/> - Random ramen bowls
+
+## Random Website Discovery
 
 - <https://1mb.club>
 - <https://250kb.club>
