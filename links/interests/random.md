@@ -3,6 +3,8 @@
 ## Other links
 
 - <https://ramen.haus/index/> - Random ramen bowls
+- <https://floor796.com>
+- <https://sf.isopolis.city>
 
 ## Random Website Discovery
 
