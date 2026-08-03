@@ -7,6 +7,10 @@
 ## General services including multiple resources:
 
 - https://iseteenindus.integratsioon.ee
+    - Erikursus - Private (only one at a time)
+    - Praktriiline Töötuba (multiple at a time possible)
+    - Suhtluspraktika
+    - Keele ja kultuuri tundmise klubid
 
 ## Books
 
@@ -15,6 +19,10 @@
 - From Turkish:
     - <https://www.instagram.com/estonca_defteri>
     - <https://estoncaturkish.wordpress.com>
+
+## Courses
+
+- <https://multilingua.ee/en/>
 
 ## Tutors
 
@@ -82,3 +90,5 @@ Practice:
 - <https://www.eki.ee/dict/psv/grammatikatabelid.pdf>
 - <https://arhiiv.eki.ee/dict/qs/muuttyybid.html>
 - <https://en.wikipedia.org/wiki/Turkish_grammar#Case>
+- <https://wiki.colanguage.com/derivatives-estonian>
+- <https://keeleweb2.ut.ee/kursused/grammar-9/1371-gr-9-4-sonamoodustus-word-formation>

@@ -17,6 +17,7 @@ Podcast:
 - <https://podcastid.ee/podcast/eesti-eso/>
 
 Movies:
+- <https://arkaader.ee>
 - <https://www.youtube.com/watch?v=ruurDK2PVOs> Zero Point
 - <https://www.youtube.com/results?search_query=estonian+full+movie>
 - <https://www.youtube.com/watch?v=RkqSddMKTH8> Tormituul
@@ -29,9 +30,11 @@ News and reading:
 - <https://news.err.ee/lihtsad-uudised>
 - <https://lihtsaskeeles.ee>
 - <https://et.wikipedia.org/wiki/Vikipeedia:Esileht>
+- <https://www.apollo.ee/en/raamatud/eestikeelsed-raamatud/keeled/eesti-keel>
 
 ## Cafes and language exchange:
 
 - <https://www.tallinn.ee/en/randekeskus/language-cafes-clubs-tallinn>
 - <https://www.mylanguageexchange.com/city/Tallinn__Estonia.asp>
 - <https://www.meetup.com/foreigners-learning-estonian-resource-group/>
+- <https://tallinnaraamatukogud.ee/en/?s=language+cafe>
