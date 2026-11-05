@@ -36,3 +36,4 @@ Untested helpful apps:
   - Double Commander <https://doublecmd.sourceforge.io>
   - (for file copy) TeraCopy <https://www.codesector.com/teracopy>
   - (Settings?) ExplorerPatcher <https://github.com/valinet/ExplorerPatcher>
+  - (Ads) https://github.com/xM4ddy/OFGB
